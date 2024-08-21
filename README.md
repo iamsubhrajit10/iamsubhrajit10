@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @iamsubhrajit10
-- 👀 I’m interested in Computer Systems
-- 🌱 I’m currently learning working various aspects of the system: kernels, parallel and distributed systems, etc.
-- 💞️ I’m looking to collaborate on anything related to systems
-- 📫 How to reach me: link in bio
+- 👋 Hi, I’m @iamsubhrajit10, you can head over to https://iamsubhrajit10.me, for more info about me!
 
 
 <!---
