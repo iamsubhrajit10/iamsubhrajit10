@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsubhrajit10, you can head over to https://iamsubhrajit10.me to know more about me!
+- Hi, I’m @iamsubhrajit10, you can head over to https://iamsubhrajit10.me to know more about me!
 
 
 <!---
